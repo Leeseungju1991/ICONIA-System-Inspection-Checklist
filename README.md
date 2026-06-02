@@ -11,6 +11,7 @@
 - AI
 - App
 - Admin
+- CI/CD
 
 ---
 
